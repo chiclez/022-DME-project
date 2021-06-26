@@ -9,7 +9,6 @@ The following libraries were used:
 - Numpy
 - Sklearn
 - Tensorflow
-- Surprise
 - Plotly
 
 This project is structured in sections using different Jupyter notebooks for a smoother experience:
@@ -21,5 +20,5 @@ This project is structured in sections using different Jupyter notebooks for a s
 
 - /data folder contains the data collected for the MSc thesis from Bellosi (2011) used in this project.
 - /report folder contains the LaTeX source code of the project report
-- 
+
 To explore the work done in this project, simply open each Jupyter notebook and run the cells.
